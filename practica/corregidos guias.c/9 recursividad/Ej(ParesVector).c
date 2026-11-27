@@ -1,0 +1,1 @@
+/*5- Una función recursiva en C que suma los elementos en las posiciones pares de un arreglo*/
